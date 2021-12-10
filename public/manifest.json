@@ -1,0 +1,8 @@
+{
+  "short_name": "Utkarsh Nagar",
+  "name": "Utkarsh Nagar Portfolio Website",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
