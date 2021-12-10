@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-me/static/css/main.8d50c45d.chunk.css",
+    "main.js": "/portfolio-me/static/js/main.470e24ea.chunk.js",
+    "main.js.map": "/portfolio-me/static/js/main.470e24ea.chunk.js.map",
+    "runtime-main.js": "/portfolio-me/static/js/runtime-main.36226030.js",
+    "runtime-main.js.map": "/portfolio-me/static/js/runtime-main.36226030.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/portfolio-me/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.38442784.chunk.js": "/portfolio-me/static/js/2.38442784.chunk.js",
+    "static/js/2.38442784.chunk.js.map": "/portfolio-me/static/js/2.38442784.chunk.js.map",
+    "index.html": "/portfolio-me/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/portfolio-me/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.8d50c45d.chunk.css.map": "/portfolio-me/static/css/main.8d50c45d.chunk.css.map",
+    "static/js/2.38442784.chunk.js.LICENSE.txt": "/portfolio-me/static/js/2.38442784.chunk.js.LICENSE.txt",
+    "static/media/Fronted_masters.822daf61.PNG": "/portfolio-me/static/media/Fronted_masters.822daf61.PNG",
+    "static/media/UN.7b4ffe83.png": "/portfolio-me/static/media/UN.7b4ffe83.png",
+    "static/media/Zoomcar.b5dbe65c.PNG": "/portfolio-me/static/media/Zoomcar.b5dbe65c.PNG",
+    "static/media/bottom_purple_arrows.119fda43.svg": "/portfolio-me/static/media/bottom_purple_arrows.119fda43.svg",
+    "static/media/nj2_043_Utkarsh_Nagar.4d97dd4c.pdf": "/portfolio-me/static/media/nj2_043_Utkarsh_Nagar.4d97dd4c.pdf",
+    "static/media/professional_Profile_pic_v2-modified.75d136b5.png": "/portfolio-me/static/media/professional_Profile_pic_v2-modified.75d136b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36226030.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.38442784.chunk.js",
+    "static/css/main.8d50c45d.chunk.css",
+    "static/js/main.470e24ea.chunk.js"
+  ]
+}
